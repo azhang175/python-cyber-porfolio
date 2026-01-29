@@ -1,0 +1,7 @@
+INFO 2026-01-12 10:00:00 Server started
+WARNING 2026-01-12 10:05:23 Disk space low
+ERROR 2026-01-12 10:06:01 Failed to connect to database
+INFO 2026-01-12 10:10:45 Connection established
+ERROR 2026-01-12 10:15:30 Timeout occurred
+WARNING 2026-01-12 10:20:12 High memory usage
+INFO 2026-01-12 10:25:00 Task completed successfully
