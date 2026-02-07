@@ -1,6 +1,9 @@
+import os
+
 count = 0
 error_count = 0
 warning_count = 0 
+filename = os.path.join("sample_data", "sample.log")
 
 try:
     with open("sample_data/sample.log", "r") as f:
